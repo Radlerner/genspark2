@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "genspark2",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6612bc9c-3161-423a-9431-87f05be50cec",
+      "database_name": "genspark"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
